@@ -1,0 +1,143 @@
+/* Universal styling */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* stying h1 tag */
+h1 {
+
+	text-align: center;
+	
+	}
+
+h1 {
+		color: white;
+	  }
+h1 {
+		background-color: rgba(201, 76, 76, 0.3);
+	  }
+
+
+	/* stying h4 tag */
+h4 {
+
+	text-align: center;
+	
+	}
+
+h4 {
+		color: white;
+	  }
+h4 {
+		background-color: rgba(201, 76, 76, 0.3);
+	  }
+	
+	
+
+/* Styling list */
+ul {
+	list-style: none;
+  }
+  
+ 
+
+
+/* Styling for the body tag */
+body {
+	background-color: rgba(255, 253, 253, 0.427);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Styling the full class */
+.full {
+	width: 50%;
+	max-width: 2000px;
+	min-height: 200px;
+	background-color: rgb(245, 231, 231);
+	margin: 0px;
+	display: grid;
+	grid-template-columns: 2fr 4fr;
+}
+
+/* Styling the Left class */
+.left {
+	position: initial;
+	background-color: rgba(126, 219, 231, 0.061);
+	padding: 20px;
+
+}
+
+/* Styling the middle class */
+.middle {
+	position: initial;
+	background-color: rgba(162, 201, 206, 0);
+	padding: 20px;
+
+}
+
+/* Styling for the titles */
+.image, .Contact, .Skills, .Language, .title,
+.Profile, .Experience, .Education, .project {
+	margin-bottom: 30px;
+}
+
+/* Styling for h2(class) */
+.h2 {
+	background-color: rgba(4, 96, 150, 0);
+}
+
+
+/* Styling social icons */
+.fa-linkedin {
+	background: #007cb5;
+	color: white;
+  }
+
+.fa-github {
+	background: #eb4924;
+	color: white;
+  }
+ 
+
+.sfa-book {
+	background: #bb0000;
+	color: white;
+}
+
+/* Thick black border */
+hr.new4 {
+	border: 1px solid black;
+  }
+
+
+  
+  
+/* Rounded Images */
+  img {
+	border-radius: 50%;
+  }
+
+  a img {
+	float: left;
+  }
+ 
+
+p.PROFILE {border-style: outset;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
