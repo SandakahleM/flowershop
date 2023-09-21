@@ -99,10 +99,10 @@ This is our user authication page
 
 This project was developed by:
 
-- Your Name - Project Lead and Developer
-- Team Member 1 - Floral Designer
-- Team Member 2 - Customer Service Representative
-- Team Member 3 - Spray Maker
+- Sanda- Project Lead and Developer
+- Emma Oliver  - Floral Designer
+- Amelia Mark - Customer Service Representative
+- Sophia Rich - Spray Maker
 
 We welcome contributions from the open-source community. Feel free to create issues and submit pull requests.
 
