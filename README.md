@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/belissimo-flower-shop.git
+   git clone https://sandakahlem.github.io/flowershop/
    ```
 
 2. Navigate to the project directory:
@@ -73,14 +73,27 @@ After installing the project, you can use it as follows:
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-*Caption for Screenshot 1*
+![image](https://github.com/SandakahleM/flowershop/assets/144545104/496db9df-dd25-4994-a684-5853d042060b)
+This is our main page on the website 
 
-![Screenshot 2](screenshot2.png)
-*Caption for Screenshot 2*
+![image](https://github.com/SandakahleM/flowershop/assets/144545104/c15a1b13-5509-4b3f-bde7-5d3c39757736)
+you can read more about our amazing team 
+![image](https://github.com/SandakahleM/flowershop/assets/144545104/0cb071c9-041b-4c8d-9275-ea41f6abe4ef)
+shop our amazing range 
 
-![Screenshot 3](screenshot3.png)
-*Caption for Screenshot 3*
+
+![image](https://github.com/SandakahleM/flowershop/assets/144545104/01936207-d11b-4c49-8ddc-47cf35d7165a)
+
+This page help use to get to know you more and give us an idea of what we can improve 
+
+![image](https://github.com/SandakahleM/flowershop/assets/144545104/f0e0782b-e167-44f0-bb4d-06b6dbd2679d)
+
+![image](https://github.com/SandakahleM/flowershop/assets/144545104/ad845c88-cfb5-4970-bd74-bcb2b925accb)
+![Uploading image.png…]()
+
+
+
+This is our user authication page 
 
 ## Contributors
 
